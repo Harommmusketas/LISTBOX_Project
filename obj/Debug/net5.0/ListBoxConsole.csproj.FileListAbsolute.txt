@@ -1,0 +1,16 @@
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\bin\Debug\net5.0\ListBoxConsole.exe
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\bin\Debug\net5.0\ListBoxConsole.deps.json
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\bin\Debug\net5.0\ListBoxConsole.runtimeconfig.json
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\bin\Debug\net5.0\ListBoxConsole.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\bin\Debug\net5.0\ListBoxConsole.dll
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\bin\Debug\net5.0\ref\ListBoxConsole.dll
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\bin\Debug\net5.0\ListBoxConsole.pdb
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.dll
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ref\ListBoxConsole.dll
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.pdb
+C:\Users\Tanulo\source\repos\ListBoxConsole\ListBoxConsole\obj\Debug\net5.0\ListBoxConsole.genruntimeconfig.cache
